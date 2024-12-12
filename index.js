@@ -23,7 +23,7 @@ tipPerPerson.innerHTML = "$" + (0.0).toFixed(2);
 totalPerPerson.innerHTML = "$" + (0.0).toFixed(2);
 
 let billValue = 0.0;
-let tipValue = 0.15;
+let tipValue = 0.10;
 let peopleValue = 1;
 
 //1. Recibimos el valor total ingresado para calcular propina
